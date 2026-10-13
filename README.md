@@ -8,6 +8,7 @@ It is designed to illustrate skills directly relevant to the SirenOpt Senior Sci
 - Training a robust model
 - Monitoring predictions for silent failures
 
+![robust_pipeline](robust_pipeline.png)
 ---
 
 ## Overview
